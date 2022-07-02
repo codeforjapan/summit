@@ -2,6 +2,7 @@
 
 Code for Japan Summit
 -----
+| ⚠️ This repository will be archived in the future, this config will no longer be maintained. Thanks for all the stars, help and brainstorms! |
 
 Code for Japan Summitに関する場所です。
 
